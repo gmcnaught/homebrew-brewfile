@@ -7,6 +7,7 @@ tap "homebrew/services"
 # Core Libraries
 brew "terraform"
 brew "graphviz"
+brew "svn"
 
 
 # Apps That keep me sane
