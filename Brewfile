@@ -4,6 +4,9 @@ tap "homebrew/cask-fonts"
 tap "homebrew/core"
 tap "homebrew/services"
 
+# Core Libraries
+brew "terraform"
+brew "graphviz"
 
 
 # Apps That keep me sane
@@ -14,6 +17,10 @@ cask "spectacle"
 cask "spotify"
 cask "visual-studio-code"
 cask "joplin"
+#cask "trello"
+cask "signal"
+cask "zoom"
+cask "alfred"
 #fonts
 
 cask "font-hack"
