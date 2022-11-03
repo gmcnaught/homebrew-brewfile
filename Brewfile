@@ -46,3 +46,4 @@ cask 'font-source-serif-pro'
 mas 'Meeter', id: 1510445899
 mas 'Microsoft Remote Desktop', id: 1295203466
 mas 'JIRA', id: 1475897096
+mas 'Evernote', id: 406056744
