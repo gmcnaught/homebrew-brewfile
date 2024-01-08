@@ -1,12 +1,10 @@
 tap "homebrew/bundle"
 tap "homebrew/cask-fonts"
-tap "homebrew/core"
 tap "homebrew/services"
 
 # Core Libraries
 brew "tfenv"
 brew "tflint"
-brew "graphviz"
 brew "subversion"
 brew "git"
 brew "mas"
@@ -14,7 +12,6 @@ brew "helm"
 brew "jq"
 brew "jsonlint"
 brew "kubernetes-cli"
-brew "suricata"
 brew "yamllint"
 brew "plantuml"
 
