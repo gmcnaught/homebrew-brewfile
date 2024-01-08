@@ -1,5 +1,4 @@
 tap "homebrew/bundle"
-tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/core"
 tap "homebrew/services"
@@ -20,15 +19,10 @@ brew "yamllint"
 brew "plantuml"
 
 # Apps That keep me sane
-cask "alfred"
-cask "flux"
-cask "iterm2"
+
 cask "lastpass"
-cask "spectacle"
-cask "spotify"
+cask "rectangle"
 cask "visual-studio-code"
-cask "signal"
-cask "zoom"
 cask "alfred"
 #fonts
 
@@ -43,7 +37,5 @@ cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
 # app store
-mas 'Meeter', id: 1510445899
-mas 'Microsoft Remote Desktop', id: 1295203466
+
 mas 'JIRA', id: 1475897096
-mas 'Evernote', id: 406056744
