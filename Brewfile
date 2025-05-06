@@ -1,7 +1,3 @@
-tap "homebrew/bundle"
-tap "homebrew/cask-fonts"
-tap "homebrew/services"
-
 # Core Libraries
 brew "tfenv"
 brew "tflint"
@@ -18,7 +14,6 @@ brew "plantuml"
 # Apps That keep me sane
 
 cask "lastpass"
-cask "rectangle"
 cask "visual-studio-code"
 cask "alfred"
 #fonts
