@@ -1,4 +1,5 @@
 # Core Libraries
+brew "awscli"
 brew "tfenv"
 brew "tflint"
 brew "subversion"
@@ -8,25 +9,29 @@ brew "helm"
 brew "jq"
 brew "jsonlint"
 brew "kubernetes-cli"
+brew "pre-commit"
 brew "yamllint"
 brew "plantuml"
-
+brew "zsh-autosuggestions"
+brew "pinentry-mac"
 # Apps That keep me sane
 
 cask "lastpass"
 cask "visual-studio-code"
 cask "alfred"
+cask "1password-cli"
+cask "elgato-stream-deck"
+cask "elgato-wave-link"
+
+
 #fonts
 
 cask "font-hack"
 cask 'font-lato'
 cask 'font-open-sans'
-cask 'font-roboto'
 cask 'font-jetbrains-mono'
-cask 'font-source-code-pro-for-powerline'
-cask 'font-source-code-pro'
-cask 'font-source-sans-pro'
-cask 'font-source-serif-pro'
+cask 'font-sf-mono'
+
 
 # app store
 
